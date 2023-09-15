@@ -1,0 +1,90 @@
+---
+id: sm6-96
+name: Arceus ◇
+supertype: Pokémon
+subtypes:
+- Basic
+- Prism Star
+hp: '160'
+types:
+- Colorless
+rules:
+- "◇ (Prism Star) Rule: You can't have more than 1 ◇ card with the same name in your
+  deck. If a ◇ card would go to the discard pile, put it in the Lost Zone instead."
+abilities:
+- name: First Law
+  text: Prevent all effects of your opponent's attacks, except damage, done to this
+    Pokémon.
+  type: Ability
+attacks:
+- name: Trinity Star
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '30'
+  text: You can use this attack only if you have Grass, Water, and Lightning Pokémon
+    on your Bench. Search your deck for up to 3 basic Energy cards and attach them
+    to your Pokémon in any way you like. Then, shuffle your deck.
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm6
+  name: Forbidden Light
+  series: Sun & Moon
+  printedTotal: 131
+  total: 150
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: FLI
+  releaseDate: 2018/05/04
+  updatedAt: 2019/02/19 23:25:00
+  images:
+    symbol: https://images.pokemontcg.io/sm6/symbol.png
+    logo: https://images.pokemontcg.io/sm6/logo.png
+number: '96'
+artist: Masakazu Fukuda
+rarity: Rare Prism Star
+flavorText: It is told in mythology that this Pokémon was born before the universe
+  even existed.
+nationalPokedexNumbers:
+- 493
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm6/96.png
+  large: https://images.pokemontcg.io/sm6/96_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm6-96
+  updatedAt: 2023/09/15
+  prices:
+    holofoil:
+      low: 4.0
+      mid: 7.39
+      high: 14.99
+      market: 7.38
+      directLow: 4.9
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm6-96
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 6.43
+    lowPrice: 2.63
+    trendPrice: 6.44
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 7.4
+    reverseHoloTrend: 10.74
+    lowPriceExPlus: 4.9
+    avg1: 8.5
+    avg7: 6.43
+    avg30: 6.36
+    reverseHoloAvg1: 15.0
+    reverseHoloAvg7: 10.11
+    reverseHoloAvg30: 9.35

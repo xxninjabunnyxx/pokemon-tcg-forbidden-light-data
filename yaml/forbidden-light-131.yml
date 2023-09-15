@@ -1,0 +1,63 @@
+---
+id: sm6-131
+name: Ultra Recon Squad
+supertype: Trainer
+subtypes:
+- Supporter
+rules:
+- Discard up to 2 Ultra Beast cards from your hand. Draw 3 cards for each card you
+  discarded in this way.
+- You may play only 1 Supporter card during your turn (before your attack).
+set:
+  id: sm6
+  name: Forbidden Light
+  series: Sun & Moon
+  printedTotal: 131
+  total: 150
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: FLI
+  releaseDate: 2018/05/04
+  updatedAt: 2019/02/19 23:25:00
+  images:
+    symbol: https://images.pokemontcg.io/sm6/symbol.png
+    logo: https://images.pokemontcg.io/sm6/logo.png
+number: '131'
+artist: Megumi Mizutani
+rarity: Rare Ultra
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm6/131.png
+  large: https://images.pokemontcg.io/sm6/131_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm6-131
+  updatedAt: 2023/09/15
+  prices:
+    holofoil:
+      low: 14.71
+      mid: 20.99
+      high: 49.95
+      market: 16.66
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm6-131
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 10.47
+    lowPrice: 4.48
+    trendPrice: 10.58
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 6.02
+    lowPriceExPlus: 7.9
+    avg1: 12.99
+    avg7: 9.57
+    avg30: 9.07
+    reverseHoloAvg1: 5.0
+    reverseHoloAvg7: 6.03
+    reverseHoloAvg30: 5.93
